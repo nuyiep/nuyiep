@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 42 minishell project
-- 🌱 I’m currently learning C 
+- 🌱 I’m currently learning C and C++
 - 📫 How to reach me
       <a href="https://www.linkedin.com/in/pei-yun-l-6727ba83/"> 
       <img src="https://user-images.githubusercontent.com/53002130/221343038-eeb9eece-66aa-45b9-8a07-d5d02edf49cf.png" width="25" height="25"> 
