@@ -5,7 +5,6 @@
       <a href="https://www.linkedin.com/in/pei-yun-l-6727ba83/"> 
       <img src="https://user-images.githubusercontent.com/53002130/221343038-eeb9eece-66aa-45b9-8a07-d5d02edf49cf.png" width="25" height="25"> 
       </a>
-
 - <a href="Annoying basil teddy bear"> 
    <img src="https://www.tamboteddies.com.au/wp-content/uploads/2020/11/6e9ba6f375a9c63a1a477ebd56be18fb711da244.jpg> 
    </a>
