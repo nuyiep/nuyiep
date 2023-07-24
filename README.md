@@ -2,14 +2,13 @@
 
 - 🌞 I am Pei Yun
 - 🌱 I’m currently learning C and C++ at 42KL 
-- My 📫 
-      ==> LinkedIn <a href="https://www.linkedin.com/in/pei-yun-l-6727ba83/">
-      <img src="https://user-images.githubusercontent.com/53002130/221343038-eeb9eece-66aa-45b9-8a07-d5d02edf49cf.png" width="20" height="20"> </a>
-      | Leetcode <a href="https://leetcode.com/nuyiep/">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="20" height="20"> </a>
-      | Goodreads <a href="https://www.goodreads.com/user/show/126475179-pei-yun-lau"> 
+- <a href="https://www.linkedin.com/in/pei-yun-l-6727ba83/">
+      <img src="https://user-images.githubusercontent.com/53002130/221343038-eeb9eece-66aa-45b9-8a07-d5d02edf49cf.png" width="20" height="20"> </a> My LinkedIn 
+      | <a href="https://leetcode.com/nuyiep/">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="20" height="20"> </a> Leetcode 
+      | <a href="https://www.goodreads.com/user/show/126475179-pei-yun-lau"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Goodreads_logo_-_SuperTinyIcons.svg/800px-Goodreads_logo_-_SuperTinyIcons.svg.png" width=20 height=20> 
-      </a>
+      </a> Goodreads 
 <!--
 **nuyiep/nuyiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
