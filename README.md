@@ -1,8 +1,8 @@
 
-<img src="https://github.com/nuyiep/nuyiep/assets/53002130/75eea13c-fd87-4691-8e55-1776f468ad4c"
-     alt="Your Image Description"
-     width="450"
-     height="250">
+<div id="header" align="center">
+
+  <img src="https://i.redd.it/rprxk500atry.gif" width="500" height="250">
+  
 ### Hi there 
 
 🌞 I am Pei Yun <br>
