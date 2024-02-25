@@ -14,6 +14,8 @@
       | <a href="https://www.goodreads.com/user/show/126475179-pei-yun-lau"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Goodreads_logo_-_SuperTinyIcons.svg/800px-Goodreads_logo_-_SuperTinyIcons.svg.png" width=20 height=20> 
       </a> Goodreads 
+      <a href="https://www.youtube.com/@peiyunlau">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="20" height="20"> </a> Youtube
 <!--
 **nuyiep/nuyiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
