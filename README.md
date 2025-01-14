@@ -9,8 +9,6 @@
 🌱 I’m currently learning C and C++ at 42KL <br>
 <a href="https://www.linkedin.com/in/peiyunlau/">
       <img src="https://user-images.githubusercontent.com/53002130/221343038-eeb9eece-66aa-45b9-8a07-d5d02edf49cf.png" width="20" height="20"> </a> My LinkedIn 
-      | <a href="https://leetcode.com/nuyiep/">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="20" height="20"> </a> Leetcode 
 <!--
 **nuyiep/nuyiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
