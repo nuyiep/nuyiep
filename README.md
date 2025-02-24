@@ -7,6 +7,8 @@
 
 🌞 I am Pei Yun <br>
 🌱 I’m currently learning C and C++ at 42KL <br>
+👩‍💻 Learning Java for Work
+
 <!--
 **nuyiep/nuyiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
